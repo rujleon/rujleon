@@ -37,3 +37,4 @@ at the **Ecole Nationale d'Informatique (ENI), Madagascar**
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ursula-randriarivelo-523859246)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonemail@gmail.com)  
+[![CV](https://img.shields.io/badge/My%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cvdesignr.com/p/686cb788c97d1)  

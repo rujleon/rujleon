@@ -7,15 +7,16 @@
   </a>
 </h1>
 
-<h4 align="center">A Data Science student from Antananarivo, Madagascar 🚀</h4>
+<h4 align="center">A Data Science & BI enthusiast from Fianarantsoa, Madagascar 🚀</h4>
 </br>
 
-🎓 Currently studying *Mathematics & Computer Science for Social Sciences (MISS)*  
-💻 Active member of the *Data Science club* at my faculty  
-📊 Working on projects in *Fraud Detection, BI (Power BI), and Machine Learning*  
-📖 Learning more about *Deep Learning, Statistics & Cloud deployment*  
+🎓 I am currently pursuing a **Master in Governance and Data Engineering (GID)**  
+at the **Ecole Nationale d'Informatique (ENI), Madagascar**  
 
-⚡ Fun fact: I love mixing **Math, Code, and Real-World Data** to create solutions!  
+📊 Working on projects in *Fraud Detection, Business Intelligence (Power BI), and Machine Learning*  
+📖 Expanding my knowledge in *Deep Learning, Statistics & Cloud deployment*  
+
+⚡ Fun fact: I love combining **Mathematics, Coding, and Real-World Data** to build impactful solutions!  
 
 <p align="center">
   <a href="#">

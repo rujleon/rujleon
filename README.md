@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h4 align="center">A Data Science & BI enthusiast from Fianarantsoa, Madagascar 🚀</h4>
+<h4 align="center">Data Scientist/Data Analyst Junior passioné par l'analyse des données, Madagascar 🚀</h4>
 </br>
 
 🎓 I am currently pursuing a **Master in Governance and Data Engineering (GID)**  

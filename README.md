@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3024F7&center=true&vCenter=true&width=500&lines=Apprenti+Data+Scientist+%26+Analyst+(Alternance);Passionné+par+la+Data+Analysis+et+la+Modélisation+Prédictive"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3024F7&center=true&vCenter=true&width=500&lines=Apprenti+Data+Scientist+%26+Analyst+(Alternance);Passionné+par+la+Data+Analysis,+la+Modélisation+Prédictive+%26+la+Stratégie+Marketing+Data-Driven."
       alt="Typing SVG"
     />
   </a>

@@ -38,3 +38,41 @@ at the **Ecole Nationale d'Informatique (ENI), Madagascar**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rujleon@gmail.com)  
 [![CV](https://img.shields.io/badge/My%20CV-2E86C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cvdesignr.com/p/68ca8ae8136f2)  
 [![Huggingface](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/NARINDRANJANAHARY)
+
+---
+
+## 📊 Code Quality
+
+<p align="center">
+  <a href="https://sonarcloud.io/dashboard?id=rujleon_qualimetrie-audit">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=rujleon_qualimetrie-audit&metric=alert_status" alt="Quality Gate Status">
+  </a>
+  <a href="https://sonarcloud.io/dashboard?id=rujleon_qualimetrie-audit">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=rujleon_qualimetrie-audit&metric=coverage" alt="Coverage">
+  </a>
+  <a href="https://sonarcloud.io/dashboard?id=rujleon_qualimetrie-audit">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=rujleon_qualimetrie-audit&metric=duplicated_lines_density" alt="Duplications">
+  </a>
+  <a href="https://sonarcloud.io/dashboard?id=rujleon_qualimetrie-audit">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=rujleon_qualimetrie-audit&metric=bugs" alt="Bugs">
+  </a>
+</p>
+
+---
+
+## 🏆 Featured Project: Qualimetrie
+
+[![SonarCloud](https://img.shields.io/badge/SonarCloud-FD3456?style=for-the-badge&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/dashboard?id=rujleon_qualimetrie-audit)
+
+**Quality Gate**: ✅ **PASSED** | **Coverage**: **97.6%** | **Duplications**: **0%**
+
+This project demonstrates best practices in code quality, unit testing with Jest, and continuous integration with SonarCloud.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rujleon&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujleon&theme=radical" alt="GitHub Streak" width="48%">
+</p>

@@ -6,12 +6,13 @@
 </h1>
 
 <h4 align="center">Apprenti Data Scientist | Data Analyst Junior passioné par l'analyse des données, Madagascar 🚀</h4>
+<p align="center">🌐 Découvrez mes réalisations et applications en ligne sur mon <strong><a href="https://rujleon.github.io">Portfolio Interactif</a></strong></p>
 </br>
 
 🎓 I am currently pursuing a **Master in Governance and Data Engineering (GID)**  
 at the **Ecole Nationale d'Informatique (ENI), Madagascar**  
 
-📊 Working on projects in *Fraud Detection,Driving Digital Marketing Optimization through AI,Business Intelligence (Power BI), and Machine Learning*  
+📊 Working on projects in *Fraud Detection, Driving Digital Marketing Optimization through AI, Business Intelligence (Power BI), and Machine Learning*  
 📖 Expanding my knowledge in *Deep Learning, Statistics & Cloud deployment*  
 
 ⚡ Fun fact: I love combining **Mathematics, Coding, and Real-World Data** to build impactful solutions!  
@@ -34,6 +35,7 @@ at the **Ecole Nationale d'Informatique (ENI), Madagascar**
 
 📫 How to reach me:  
 ---
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rujleon.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojo-leon-narindranjanahary-989188277)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rujleon@gmail.com)  
 [![CV](https://img.shields.io/badge/My%20CV-2E86C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cvdesignr.com/p/68ca8ae8136f2)  
